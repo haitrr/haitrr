@@ -7,4 +7,4 @@ I'm Hai, a software engineer based in Vietnam. Currently working for [Grab](http
 
 📫 How to reach me: 
 * LinkedIn : [@haitran26](https://www.linkedin.com/in/haitran26/)
-* Or [Send me an email](mailto:haitv.me@gmail.com)
+* Or [Send me an email](mailto:h@hai.fyi)
