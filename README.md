@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Hai, a software engineer based in Vietnam. Currently working for [Grab](https://github.com/grab).
-
-🔭 I’m interested in back-end development and dev-ops.
+I'm Hai, a software engineer at [@hyperquery](https://github.com/hyperqueryhq).
 
 
 📫 How to reach me: 
