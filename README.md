@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hai, a software engineer at [@hyperquery](https://github.com/hyperqueryhq).
+I'm Hai, a software engineer at [@oxy](https://github.com/oxy-hq).
 
 
 📫 How to reach me: 
